@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /login
+Disallow: /admin
+Disallow: /logout
+Sitemap: https://3307.live/sitemap.xml
